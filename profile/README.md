@@ -16,11 +16,9 @@ The room is a web page. Claude Code or Codex writes the game on your computer, a
 
 ## Technology
 
-| | |
-| --- | --- |
-| **[PocketJS](https://pocketjs.pocket.nexus)** | Create UI on every screen you love. Apps written as JavaScript components, drawn as native pixels on handhelds, desktops and embedded screens. [Source](https://github.com/pocket-nexus/pocketjs) |
-| **[Pocket3D](https://3d.pocket.nexus)** | Create 3D for every machine you love. A scene written once in Three.js, a compiler that lowers it for each console, and a renderer for each console's GPU. [Source](https://github.com/pocket-nexus/pocketjs/tree/main/pocket3d) |
-| **[MicroTS](https://github.com/pocket-nexus/pocketjs/tree/main/microts)** | TypeScript compiled ahead of time to native code. [Source](https://github.com/pocket-nexus/pocketjs/tree/main/microts) |
+- **[PocketJS](https://pocketjs.pocket.nexus)**: create UI on every screen you love. Apps written as JavaScript components, drawn as native pixels on handhelds, desktops and embedded screens. [Source](https://github.com/pocket-nexus/pocketjs)
+- **[Pocket3D](https://3d.pocket.nexus)**: create 3D for every machine you love. A scene written once in Three.js, a compiler that lowers it for each console, and a renderer for each console's GPU. [Source](https://github.com/pocket-nexus/pocketjs/tree/main/pocket3d)
+- **[MicroTS](https://github.com/pocket-nexus/pocketjs/tree/main/microts)**: TypeScript compiled ahead of time to native code.
 
 ## Games on Pocket Studio
 
